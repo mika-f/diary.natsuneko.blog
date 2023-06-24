@@ -20,5 +20,6 @@ export default {
   ],
   darkMode: true,
   footer: <p>© 2023 Natsuneko.</p>,
+  titleSuffix: " at diary.natsuneko.blog",
   readMore: "Read More →",
 } satisfies NextraBlogTheme;
